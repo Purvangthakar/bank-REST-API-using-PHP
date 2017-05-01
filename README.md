@@ -7,7 +7,8 @@ Functionality :
             (2) Check balance
             (3) Credit
             (4) Debit
- New function:
+
+New function:
             (5) Transfer
 
 Required Software :     (1) Postman app of Chrome
