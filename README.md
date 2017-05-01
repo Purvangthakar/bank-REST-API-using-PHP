@@ -9,3 +9,6 @@ Functionality :
             (4) Debit
  New function:
             (5) Transfer
+
+Required Software :     (1) Postman app of Chrome
+                        (2) Any PHP Web-Server
